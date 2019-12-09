@@ -1,6 +1,4 @@
-# mzx-s-homepage
-
 # !! In Progress Alert !!
 
-## What is this?
+#### What is this?
 This is the homepage for myself. 
