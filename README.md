@@ -8,7 +8,7 @@ Podor Services has 3 components.
  * Podor Server
  
  ### Podor Cloud
- PodorCloud (cloud.podor.org) is powered by a QNAP NAS with24/7 uptime (99%), it provides,
+ PodorCloud (cloud.podor.org) is powered by a QNAP NAS with 24/7 uptime (99%), it provides,
 * File Sharing
 * File Syncing
 * Podor DropBox
