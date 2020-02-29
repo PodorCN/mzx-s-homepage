@@ -21,3 +21,8 @@ PodorSystem has 3 components.
  * Website Hosting
  * Limited Storage
  * VPN Services
+ 
+ ## Functionality
+ ### Auto-update Latex Course Notes
+ * Latex Source Files are synced with all note-taking devices with Podor Cloud Syncing Services
+ * Latex PDF course notes are taken by all avaliable devices, then sync to Podor Cloud, where the course notes folder will be update without update the shared link
